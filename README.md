@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Parth Savaliya</h1>
 <h3 align="center">MSCIT Cybersecurity Student | Ethical Hacker | SOC Analayis</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parthsavaliya47&label=Profile%20views&color=0e75b6&style=flat" alt="parthsavaliya47" /> </p>
+💫 About Me:
+🎓 Cybersecurity Student — specializing in MSc IT in Cyber Security
+
+🔍 Passionate about threat hunting, log analysis, and protecting systems from emerging cyber threats in SOC environments
+
+🌱 Currently learning: SOC Analysis, Nmap, Wireshark, Network Security
+
+🏹 Practicing on: TryHackMe — grinding through labs daily
+
+🎯 Goal: Become a professional SOC Analysis
+
+👻 Identity: SOC = Cybersecurity Defense Unit
 
 - 📫 How to reach me **savaliyaparth712@gmail.com**
 
